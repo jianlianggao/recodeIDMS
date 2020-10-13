@@ -1,4 +1,7 @@
 install.packages("quantmod")
+install.packages("dplyr")
+install.packages("lubridate")
+install.packages("PerformanceAnalytics")
 install.packages("highr")
 install.packages("markdown")
 install.packages("stringr")
